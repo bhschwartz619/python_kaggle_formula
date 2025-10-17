@@ -1,6 +1,5 @@
 # Exercise #: Kaggle Formula
 # Ben Schwartz
-# Submission Due: 9/20/25
 
 # Importing in sqrt, log10, e from the math module.
 from math import sqrt, log10, e
